@@ -1,4 +1,0 @@
-# zsgovlab
-
-hiose
-cat
